@@ -2,6 +2,7 @@
 
 In this tutorial,  we would draw a Smile face :
 
+
 Following steps are used :
 
 Import turtle. (Python package) 
